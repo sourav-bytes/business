@@ -402,6 +402,9 @@ input::focus {
         .section-4-inner {
             margin: 0 25px !important;
         }
+.section-4text {
+Padding: 0px ! Important;
+}
 
         .h span {
             background: #41BC9E;
@@ -430,7 +433,7 @@ input::focus {
 
         }
 
-        .yyy {
+        .yyyy {
             padding-right: 0px !important;
             padding-bottom: 20px
         }
