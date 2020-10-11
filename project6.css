@@ -489,10 +489,10 @@ Padding: 0px ! Important;
             margin: 0px 10px !important
         }
 
-.z ul{ padding: 0px 17px !important
+.z ul{ padding-left: 16px !important
 }
         .z {
-            padding: 25px 20px !important;
+            padding: 25px 14px !important;
         }
 
         .x {
