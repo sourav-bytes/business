@@ -424,7 +424,7 @@ Padding: 0px ! Important;
         .card-body {
             padding: 20px 5px !important;
         }
-.card-body ul{ padding: 0px 25px !important
+.card-body ul{ padding-left: 25px !important
 }
         .card-body a {
             background: #13BF97;
