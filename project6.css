@@ -400,7 +400,7 @@ input::focus {
         }
 
         .section-4-inner {
-            margin: 0 10px !important;
+            margin: 0 15px !important;
         }
 .section-4text {
 Padding: 0px ! Important;
@@ -424,7 +424,8 @@ Padding: 0px ! Important;
         .card-body {
             padding: 20px 5px !important;
         }
-
+.card-body ul{ padding: 0px 25px 
+}
         .card-body a {
             background: #13BF97;
             color: white;
