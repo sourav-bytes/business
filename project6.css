@@ -400,7 +400,7 @@ input::focus {
         }
 
         .section-4-inner {
-            margin: 0 25px !important;
+            margin: 0 10px !important;
         }
 .section-4text {
 Padding: 0px ! Important;
@@ -408,7 +408,7 @@ Padding: 0px ! Important;
 
         .h span {
             background: #41BC9E;
-            padding: 6px 15px !important;
+            padding: 7px 15px !important;
             color: white;
             border: 0 !important
         }
@@ -422,7 +422,7 @@ Padding: 0px ! Important;
         }
 
         .card-body {
-            padding: 20px 14px !important;
+            padding: 20px 5px !important;
         }
 
         .card-body a {
@@ -485,10 +485,11 @@ Padding: 0px ! Important;
         }
 
         .section-6-inner {
-            margin: 0px 20px !important
+            margin: 0px 10px !important
         }
 
-
+.z ul{ padding: 0px 17px !important
+}
         .z {
             padding: 25px 20px !important;
         }
@@ -515,7 +516,7 @@ Padding: 0px ! Important;
 
         .section-9-inner {
             padding: 50px 0px !important;
-            margin: 0px 20px !important;
+            margin: 0px 10px !important;
         }
 
         .yyy {
@@ -528,7 +529,7 @@ Padding: 0px ! Important;
 
         .section-10-inner {
             padding: 50px 0px !important;
-            margin: 0px 20px !important;
+            margin: 0px 0px !important;
         }
 
         .u {
@@ -544,9 +545,8 @@ padding:0px !important;
         }
 
         .section-2-inner {
-            margin: 0px 20px !important;
+            margin: 0px 10px !important;
         }
-
         .pu {
             padding-top: 50px !important;
             padding-bottom: 30px !important;
@@ -563,7 +563,7 @@ padding:0px !important;
 
     @media only screen and (max-width:375px) {
         .section-3-inner {
-            margin: 0px 20px !important;
+            margin: 0px 10px !important;
         }
 
         .card-body a {
